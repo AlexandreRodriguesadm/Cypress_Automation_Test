@@ -1,4 +1,4 @@
-import " given and when then " from "cypress-cucumber-preprocessor"
+Olá, sejam bem-vindos, aqui está meu teste automatizado em cypress.
 
 para rodar o teste você deve instalar:
 npm install cypress-cucumber-preprocessor
